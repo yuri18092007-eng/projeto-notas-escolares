@@ -2,16 +2,14 @@
 # Sistema de Ordenacao de Notas Escolares
 
 ## Disciplina
-Logica de Programacao
-
+algorotimos e pensamentos computacionais
 ## Professora
-[Nome da professora]
+Karla
 
 ## Integrantes do grupo
-- [Nome do integrante 1]
-- [Nome do integrante 2]
-- [Nome do integrante 3]
-
+- Gabriel Yuri 
+- Rafael Cesar
+- Bento heringer
 ## 1. Descricao do problema
 
 Em uma escola, organizar as notas dos alunos pode facilitar
