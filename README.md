@@ -9,7 +9,6 @@ Karla
 ## Integrantes do grupo
 - Gabriel Yuri 
 - Rafael Cesar
-- Bento heringer
 ## 1. Descricao do problema
 
 Em uma escola, organizar as notas dos alunos pode facilitar
